@@ -9,6 +9,8 @@
 El torneo de futbol 9, es una actividad para relacionar las comunidades, se espera un sistema de información funcional en la cual se involucren actores tales como deportistas, entrenadores y árbitros.
 
 La denominación del sistema será enmarcada en un administrador de torneos que incluirá los siguiente ítems: programación, ubicación de torneos, notificación en cuanto a cambio de posiciones, información de equipos (entrenadores y jugadores), todo lo anterior ligado al interés de un participante en conocer lo sucedido durante las jornadas de cada torneo.
+
+En el siguiente [*enlace*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mcasti40_ibero_edu_co/EfUfieN5Lj1Jr-eJRxSHZ7IBfpbh64M0pS1j6cvTUj-3og?e=y290Mq?target=_blank) se evidenciará la actividad agrupada.
 <!-- Sección general-->
 
 
@@ -39,3 +41,13 @@ La denominación del sistema será enmarcada en un administrador de torneos que 
 [*Ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mcasti40_ibero_edu_co/EfUfieN5Lj1Jr-eJRxSHZ7IBfpbh64M0pS1j6cvTUj-3og?e=y290Mq?target=_blank)
 
 <!-- Sección Miguel Alejandro Castillo Amador -->
+
+
+<!-- Sección general footer -->
+> ### Todos los derechos son reservados a:
+>
+> - *María Fernanda Rivas Barrera*
+> - *Holman Stiven Cruz Garcia*
+> - *Miguel Alejandro Castillo Amador*
+
+<!-- Sección general footer -->

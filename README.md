@@ -18,7 +18,7 @@ En el siguiente [*enlace*](https://laiberocol-my.sharepoint.com/:v:/g/personal/m
 ### Reglas de torneo
 > — María Fernanda Rivas Barrera
 ![img-Reglas](https://user-images.githubusercontent.com/43456634/158320538-c53042a2-6543-4d9c-b3e7-f1a7d3d4e558.png)
-[*Ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mcasti40_ibero_edu_co/EfUfieN5Lj1Jr-eJRxSHZ7IBfpbh64M0pS1j6cvTUj-3og?e=y290Mq?target=_blank)
+[*Ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/EfCBKw8NK9VMnhGdlziQoyoBUCZNuoCTXTSiWu9Z4Z2QLA?target=_blank)
 
 <!-- Sección María Fernanda Rivas Barrera -->
 

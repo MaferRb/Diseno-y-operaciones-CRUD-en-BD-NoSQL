@@ -37,7 +37,8 @@ En el siguiente [*enlace*](https://laiberocol-my.sharepoint.com/:v:/g/personal/m
 <!-- Sección Miguel Alejandro Castillo Amador -->
 ### Control de versiones
 > — Miguel Alejandro Castillo Amador
-![img-control-GIT](https://user-images.githubusercontent.com/43456634/158319563-785f87ff-4fe5-422d-ac7c-c04d31ed6aaa.png)
+<!-- ![img-control-GIT](https://user-images.githubusercontent.com/43456634/158319563-785f87ff-4fe5-422d-ac7c-c04d31ed6aaa.png) -->
+![img-control-GIT](videos/explicacion-Repositorio.mp4)
 [*Ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mcasti40_ibero_edu_co/Ea8jBB5T-_FBnjsY_ALGGTABoStG4dYUp03nLv-N5JAgfA?e=cMPyq0?target=_blank)
 
 <!-- Sección Miguel Alejandro Castillo Amador -->

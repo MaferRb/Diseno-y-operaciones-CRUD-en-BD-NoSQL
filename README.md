@@ -179,8 +179,13 @@ Ver video, para profundizar en las consultas.
 
 <!-- Sección Miguel Alejandro Castillo Amador -->
 
+##### Actividad 4 - Pruebas e informe de replicación en Bases de Datos NoSQL
+<!-- Sección María Fernanda Rivas Barrera -->
 
+> — María Fernanda Rivas Barrera
+[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/EQ_AdsEY1tBMtguqoBnkBckB3xTQpotNGQR41H-81zG-0w?e=I7Lqoc)
 
+<!-- Sección María Fernanda Rivas Barrera -->
 
 <!-- Sección general footer -->
 > ### Todos los derechos son reservados a:

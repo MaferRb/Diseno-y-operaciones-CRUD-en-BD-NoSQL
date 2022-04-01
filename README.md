@@ -179,13 +179,63 @@ Ver video, para profundizar en las consultas.
 
 <!-- Sección Miguel Alejandro Castillo Amador -->
 
-##### Actividad 4 - Pruebas e informe de replicación en Bases de Datos NoSQL
+
+
+
+### Actividad 3 - Conceptos y comandos básicos de la replicación en bases de datos NoSQL
+
 <!-- Sección María Fernanda Rivas Barrera -->
+### Requisitos no funcionales para la replicacion de la base de datos
 
 > — María Fernanda Rivas Barrera
-[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/EQ_AdsEY1tBMtguqoBnkBckB3xTQpotNGQR41H-81zG-0w?e=I7Lqoc)
+
+![img-Requisitos no funcionales](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EcGJaYewjS1DsiC54zW7cvEBnsTLGGTNcO5W8zdItG2DUw?e=vxLYlG)
 
 <!-- Sección María Fernanda Rivas Barrera -->
+
+----------------------------------------------------------------------------------------------------------
+
+<!-- Sección Miguel Alejandro Castillo Amador -->
+### Estrategia de replicación
+> — Miguel Alejandro Castillo Amador
+
+![img-estrategia de replicacion](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EbXwIsNsrrxEjPn4ilITE50B-FFqGdfnoE5EkdBiNam_cg?e=MppwaJ)
+
+<!-- Sección Miguel Alejandro Castillo Amador -->
+
+
+----------------------------------------------------------------------------------------------------------
+<!-- Sección Holman Stiven Cruz Garcia -->
+
+### Scripts de entorno de replicación
+> — Holman Stiven Cruz Garcia
+
+![img-scripts replicacion](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/ERG2PpsbPVhOoWZx4OaQs3QBZgETEru4gUCpnb8GbZUA4A?e=QgtoOX)
+
+![img-scripts parte dos](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EYao_UvcfWNEjt_A2SYLhbMBF_9M2CLCqZubfD6dSU_OYw?e=wXcS1l)
+
+<!-- Sección Holman Stiven Cruz Garcia -->
+
+----------------------------------------------------------------------------------------------------------
+### Actividad 4 - Pruebas e informe de replicación en Bases de Datos NoSQL
+
+
+### Actividad 4 - Introduccion
+<!-- Sección María Fernanda Rivas Barrera -->
+> — María Fernanda Rivas Barrera
+[*image-presentacion*](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EUhXThIBnj9KgpUxC3H7yDgBlyyxRVu5Dw5pIDeKC48eYw?e=KA1fT1)
+
+[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/EQ_AdsEY1tBMtguqoBnkBckB3xTQpotNGQR41H-81zG-0w?e=144pBI)
+
+<!-- Sección María Fernanda Rivas Barrera -->
+
+
+
+
+
+
+
+
 
 <!-- Sección general footer -->
 > ### Todos los derechos son reservados a:

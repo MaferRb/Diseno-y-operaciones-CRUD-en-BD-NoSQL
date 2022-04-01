@@ -189,7 +189,7 @@ Ver video, para profundizar en las consultas.
 
 > — María Fernanda Rivas Barrera
 
-![img-Requisitos no funcionales](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EcGJaYewjS1DsiC54zW7cvEBnsTLGGTNcO5W8zdItG2DUw?e=vxLYlG)
+![img-Requisitos-nofuncionales](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EcGJaYewjS1DsiC54zW7cvEBnsTLGGTNcO5W8zdItG2DUw?e=vxLYlG)
 
 <!-- Sección María Fernanda Rivas Barrera -->
 
@@ -199,7 +199,7 @@ Ver video, para profundizar en las consultas.
 ### Estrategia de replicación
 > — Miguel Alejandro Castillo Amador
 
-![img-estrategia de replicacion](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EbXwIsNsrrxEjPn4ilITE50B-FFqGdfnoE5EkdBiNam_cg?e=MppwaJ)
+![img-estrategia](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EbXwIsNsrrxEjPn4ilITE50B-FFqGdfnoE5EkdBiNam_cg?e=MppwaJ)
 
 <!-- Sección Miguel Alejandro Castillo Amador -->
 
@@ -210,9 +210,9 @@ Ver video, para profundizar en las consultas.
 ### Scripts de entorno de replicación
 > — Holman Stiven Cruz Garcia
 
-![img-scripts replicacion](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/ERG2PpsbPVhOoWZx4OaQs3QBZgETEru4gUCpnb8GbZUA4A?e=QgtoOX)
+![img-scripts-replicacion](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/ERG2PpsbPVhOoWZx4OaQs3QBZgETEru4gUCpnb8GbZUA4A?e=QgtoOX)
 
-![img-scripts parte dos](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EYao_UvcfWNEjt_A2SYLhbMBF_9M2CLCqZubfD6dSU_OYw?e=wXcS1l)
+![img-scripts-parte-dos](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EYao_UvcfWNEjt_A2SYLhbMBF_9M2CLCqZubfD6dSU_OYw?e=wXcS1l)
 
 <!-- Sección Holman Stiven Cruz Garcia -->
 
@@ -223,7 +223,7 @@ Ver video, para profundizar en las consultas.
 ### Actividad 4 - Introduccion
 <!-- Sección María Fernanda Rivas Barrera -->
 > — María Fernanda Rivas Barrera
-[*image-presentacion*](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EUhXThIBnj9KgpUxC3H7yDgBlyyxRVu5Dw5pIDeKC48eYw?e=KA1fT1)
+[Image_presentacion*](https://laiberocol-my.sharepoint.com/:i:/g/personal/mrivasba_ibero_edu_co/EUhXThIBnj9KgpUxC3H7yDgBlyyxRVu5Dw5pIDeKC48eYw?e=KA1fT1)
 
 [*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/EQ_AdsEY1tBMtguqoBnkBckB3xTQpotNGQR41H-81zG-0w?e=144pBI)
 

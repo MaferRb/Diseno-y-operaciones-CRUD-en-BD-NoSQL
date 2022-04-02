@@ -1,11 +1,11 @@
-##### Actividad 4 - Pruebas e informe de replicación en Bases de Datos NoSQL
+##### Actividad 4 - Pruebas e informe de replicación en Bases de Datos NoSQL.
 
 
 
 <!-- Sección general -->
-# Pruebas e informe de replicación en Bases de Datos NoSQL.
+# Pruebas e informe de replicación en BD NoSQL.
 
-### Pruebas de requerimientos No funcionales
+### Pruebas de requerimientos No funcionales.
 ![Screenshot from 2022-04-01 22-32-00](https://user-images.githubusercontent.com/43456634/161364383-b8f3619d-0dd4-4d74-a8cc-bbac03c30ee7.png)
 
 En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/ESk4WhlLbv5Pp5rk_cJ6SvMBTPB0P7hrsoiqfSSjT2A8FQ?target=_blank) se evidenciará la actividad agrupada en un solo video.
@@ -54,20 +54,20 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 # Conceptos básicos de la replicación en bases de datos NoSQL.
 
 
-### Diagrama de replicación en MongoDB
+### Diagrama de replicación en MongoDB.
 ![Screenshot from 2022-04-01 20-47-43](https://user-images.githubusercontent.com/43456634/161360951-889cbdf6-a8df-44c0-9b39-6795af3c0872.png)
 
 
 
 Scripts usados para la realización de la actividad:
 
-- *Crear los directorios de datos necesarios para cada miembro* 
+- *Crear los directorios de datos necesarios para cada miembro.* 
 ```
     mkdir -p /srv/mongodb/rs0-0 /srv/mongodb/rs0-1 /srv/mongodb/rs0-2
 ```
 
 
-- *Inicie las instancias en sus propias ventanas de shell (levantar los servidores)*
+- *Inicie las instancias en sus propias ventanas de shell (levantar los servidores).*
 ```
     mongod --replSet rs0 --port 27017 --bind_ip localhost,<hostname(s)|ip address(es)> --dbpath /srv/mongodb/rs0-0 --oplogSize 128
 ```
@@ -83,7 +83,7 @@ Scripts usados para la realización de la actividad:
 
 - *Se Conéctara a una de sus mongod instancias a través de mongosh. indicando
 instancia y especificando su número de puerto. En aras de la simplicidad y la claridad,
-se elige el primero*
+se elige el primero.*
 ```
     mongosh --port 27017
 ```
@@ -114,7 +114,7 @@ un objeto de configuración de conjunto de réplicas en mongosh el entorno.* **E
 
 
 <!-- Sección María Fernanda Rivas Barrera -->
-### Requisitos no funcionales para la replicacion de la base de datos
+### Requisitos no funcionales para la replicacion de la base de datos.
 
 > — María Fernanda Rivas Barrera
 ![img- requisitos no funcionales ](https://user-images.githubusercontent.com/43456634/161361745-61227df6-db44-406c-aaca-e877fd637043.png)
@@ -125,7 +125,7 @@ un objeto de configuración de conjunto de réplicas en mongosh el entorno.* **E
 
 
 <!-- Sección Miguel Alejandro Castillo Amador -->
-### Estrategia de replicación
+### Estrategia de replicación.
 > — Miguel Alejandro Castillo Amador
 > 
 ![img- estrategia de replicacion](https://user-images.githubusercontent.com/43456634/161361781-86f5a120-50de-4d0c-b52b-ed3208557bcb.png)
@@ -135,7 +135,7 @@ un objeto de configuración de conjunto de réplicas en mongosh el entorno.* **E
 
 ----------------------------------------------------------------------------------------------------------
 <!-- Sección Holman Stiven Cruz Garcia -->
-### Scripts de entorno de replicación
+### Scripts de entorno de replicación.
 > — Holman Stiven Cruz Garcia
 
 
@@ -151,14 +151,14 @@ un objeto de configuración de conjunto de réplicas en mongosh el entorno.* **E
 
 
 
-##### Actividad 2 - Consultas en Bases de datos NoSQL
+##### Actividad 2 - Consultas en Bases de datos NoSQL.
 
 
 
 <!-- Sección general -->
-# Consultas en Bases de datos NoSQL
+# Consultas en Bases de datos NoSQL.
 
-### Tabla de los encuentros deportivos
+### Tabla de los encuentros deportivos.
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/43456634/158748704-d9221175-42b6-4586-80f8-6f142f532897.png)
 
 
@@ -283,14 +283,14 @@ Ver video, para profundizar en las consultas.
 
 
 
-#### Actividad-1 Diseño y operaciones CRUDen Bases de datos NoSQL
+#### Actividad-1 Diseño y operaciones CRUDen Bases de datos NoSQL.
 
 
 
 <!-- Sección general -->
-# Diseño y Operaciones CRUD en Bases de Datos NoSQL
+# Diseño y Operaciones CRUD en Bases de Datos NoSQL.
 
-### Requerimientos torneo futbol 9
+### Requerimientos torneo futbol 9.
 El torneo de futbol 9, es una actividad para relacionar las comunidades, se espera un sistema de información funcional en la cual se involucren actores tales como deportistas, entrenadores y árbitros.
 
 La denominación del sistema será enmarcada en un administrador de torneos que incluirá los siguiente ítems: programación, ubicación de torneos, notificación en cuanto a cambio de posiciones, información de equipos (entrenadores y jugadores), todo lo anterior ligado al interés de un participante en conocer lo sucedido durante las jornadas de cada torneo.
@@ -301,7 +301,7 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 
 
 <!-- Sección María Fernanda Rivas Barrera -->
-### Reglas de torneo
+### Reglas de torneo.
 > — María Fernanda Rivas Barrera
 ![img-Reglas](https://user-images.githubusercontent.com/43456634/158320538-c53042a2-6543-4d9c-b3e7-f1a7d3d4e558.png)
 
@@ -311,7 +311,7 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 
 
 <!-- Sección Holman Stiven Cruz Garcia -->
-### Estructura de la base de datos
+### Estructura de la base de datos.
 > — Holman Stiven Cruz Garcia
 ![img-estructure-DB](https://user-images.githubusercontent.com/43456634/158314744-42c59978-10f6-47d4-873a-76ab5e029f27.png)
 
@@ -321,7 +321,7 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 
 
 <!-- Sección Miguel Alejandro Castillo Amador -->
-### Control de versiones
+### Control de versiones.
 > — Miguel Alejandro Castillo Amador
 ![img-control-GIT](https://user-images.githubusercontent.com/43456634/158319563-785f87ff-4fe5-422d-ac7c-c04d31ed6aaa.png)
 
@@ -330,17 +330,12 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
 
 
 <!-- Sección general footer -->
-> ### Todos los derechos son reservados a:
->
-> - *María Fernanda Rivas Barrera*
-> - *Holman Stiven Cruz Garcia*
-> - *Miguel Alejandro Castillo Amador*
-
+###### *Todos los derechos son reservados a María Fernanda Rivas Barrera - Holman Stiven Cruz Garcia - Miguel Alejandro Castillo Amador*
 <!-- Sección general footer -->

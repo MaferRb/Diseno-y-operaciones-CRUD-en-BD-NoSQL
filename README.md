@@ -8,8 +8,9 @@
 ### Pruebas de requerimientos No funcionales.
 ![Screenshot from 2022-04-01 22-32-00](https://user-images.githubusercontent.com/43456634/161364383-b8f3619d-0dd4-4d74-a8cc-bbac03c30ee7.png)
 
-En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/ESk4WhlLbv5Pp5rk_cJ6SvMBTPB0P7hrsoiqfSSjT2A8FQ?target=_blank) se evidenciará la actividad agrupada en un solo video.
+En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/ETnWC6yfFHpMlP6YdGEHTy8BVHxWCgrZvl7aeh9l9PbjEg) se evidenciará la actividad agrupada en un solo video.
 <!-- Sección general -->
+
 
 
 <!-- Sección María Fernanda Rivas Barrera -->
@@ -38,7 +39,7 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 
 ![Screenshot from 2022-04-02 13-27-30](https://user-images.githubusercontent.com/43456634/161396441-aef614f7-032d-4146-927b-5cb6bbf95616.png)
 
-[*Clic aquí para ver video*]()
+[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/ER_CsK-ENsVHpRKv3MyC970B59kYy6gN2d0JyHFhC2Ha8w)
 <!-- Sección Miguel Alejandro Castillo Amador -->
 
 

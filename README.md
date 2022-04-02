@@ -26,8 +26,8 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 <!-- Sección Holman Stiven Cruz Garcia -->
 > — Holman Stiven Cruz Garcia
 
-<!-- ![img- capa 1 video](https://user-images.githubusercontent.com/43456634/161363620-4ff007db-4d1f-4a2e-8838-54e143bc3095.png)
-[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/EQ_AdsEY1tBMtguqoBnkBckB3xTQpotNGQR41H-81zG-0w?e=144pBI) -->
+![Screenshot from 2022-04-02 13-24-09](https://user-images.githubusercontent.com/43456634/161396357-62f46ddf-647a-4b9a-a348-80ad71cbb6d7.png)
+[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mcasti40_ibero_edu_co/EdnzR16Xv4lLtoB1twGIAU8BX9GKc7dmnp3Yo8DES9bjWg?e=ig9BQ2)
 <!-- Sección Holman Stiven Cruz Garcia -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -36,8 +36,9 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 <!-- Sección Miguel Alejandro Castillo Amador -->
 > — Miguel Alejandro Castillo Amador
 
-<!-- ![img- capa 1 video](https://user-images.githubusercontent.com/43456634/161363620-4ff007db-4d1f-4a2e-8838-54e143bc3095.png)
-[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/EQ_AdsEY1tBMtguqoBnkBckB3xTQpotNGQR41H-81zG-0w?e=144pBI) -->
+![Screenshot from 2022-04-02 13-27-30](https://user-images.githubusercontent.com/43456634/161396441-aef614f7-032d-4146-927b-5cb6bbf95616.png)
+
+[*Clic aquí para ver video*]()
 <!-- Sección Miguel Alejandro Castillo Amador -->
 
 

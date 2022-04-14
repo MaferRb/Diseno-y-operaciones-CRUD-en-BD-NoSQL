@@ -1,5 +1,15 @@
-// script de usuario administrador
-db.createUser({
+  
+  // Ver base de datos
+  // show dbs
+
+  // Usar Base de datos
+  // use name_db
+
+  // Ver coleciones
+  db.show.collections
+
+  // script de usuario administrador
+  db.createUser({
     user: "adminActivitiesIbero",
     pwd: "pwdG3n3r1c2022",
     roles: [{ role: "userAdminAnyDatabase", db: "admin" }]

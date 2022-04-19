@@ -134,7 +134,7 @@ sh.addShard( "activityReplSet/localhost:27018, localhost:27019, localhost:27020"
 
 
 <!-- Sección Miguel Alejandro Castillo Amador -->
-### Estrategia de particionamiento.
+### Estrategia de fragmentación.
 
 > — Miguel Alejandro Castillo Amador
 

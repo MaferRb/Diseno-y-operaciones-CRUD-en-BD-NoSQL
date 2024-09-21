@@ -1,3 +1,152 @@
+##### Actividad 6 : Pruebas de particionamiento de bases de datos NoSQL.
+
+
+
+<!-- Sección general -->
+# Pruebas de particionamiento de bases de datos NoSQL.
+
+### Pruebas de requerimientos No funcionales.
+![Screenshot from 2022-04-14 18-44-26](https://user-images.githubusercontent.com/43456634/163494401-5ad48817-3b4e-4344-9b41-7c977ff7cbec.png)
+
+
+En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/EfOrTnQYdQVPg2G89by6-3YBOPXnT4DYVDb9jnNyXqiJKQ) se evidenciará la actividad agrupada en un solo video.
+<!-- Sección general -->
+
+
+
+<!-- Sección María Fernanda Rivas Barrera -->
+> — María Fernanda Rivas Barrera
+
+![Screenshot from 2022-04-14 18-18-35](https://user-images.githubusercontent.com/43456634/163492393-041f1cb7-6b12-437d-8bdc-ff7c4a55c7e7.png)
+[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/Efka5DDp9otJh9IfO02WSDgBYNjCLkdBHOFS_s2mRs8P3w)
+<!-- Sección María Fernanda Rivas Barrera -->
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!-- Sección Miguel Alejandro Castillo Amador -->
+> — Miguel Alejandro Castillo Amador
+
+![Screenshot from 2022-04-14 18-20-47](https://user-images.githubusercontent.com/43456634/163492498-b621dd37-d658-4c12-9c0a-26f9bc9b912e.png)
+[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mcasti40_ibero_edu_co/EQ7eGPxOK7xLuCrYvyNTXaABlQkLkgu_E3x1aNjtdMC-lA?e=OVaO9c)
+<!-- Sección Miguel Alejandro Castillo Amador -->
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+##### Actividad 5 - Conceptos y Comandos básicos del particionamiento en bases de datos NoSQL.
+
+
+
+<!-- Sección general -->
+# Conceptos y Comandos básicos del particionamiento en DB NoSQL.
+
+
+### Diagrama de particionamiento en MongoDB.
+![Screenshot from 2022-04-01 20-47-43](https://user-images.githubusercontent.com/43456634/163492669-51d14af5-c478-4a32-8d4d-a0729527d11c.png)
+
+
+
+Algunos scripts utilizados para la realización de la actividad, ya que en el documento enviado en la actividad se encuentra mas desglozado:
+
+- *Creación de replicas, la cual se explica en la actividad 4 (Terminal independiente)* 
+```
+    mongod --port 27018 --dbpath /var/lib/mongodb/replicate/rs1 --replSet activityReplSet.
+```
+
+
+- *Se iniciará servidor de configuración (Terminal independiente diferente a las del paso 0).*
+```
+    mongo –port 27018.
+```
+
+- *Se iniciará el conjunto de réplicas del servidor de configuración.*
+```
+   rs.initiate({
+    _id: "activityReplSet",
+    members: [
+        { _id: 0, host: "localhost:27018" },
+        { _id: 1, host: "localhost:27019" },
+        { _id: 2, host: "localhost:27020" }
+        ]
+    })
+```
+
+
+- *Se iniciara cada miembro del conjunto de réplicas del servidor de configuración.*
+```
+    mongod --configsvr --port 27018 --replSet activityReplSet --dbpath /var/lib/mongodb/replicate/rs1 --bind_ip localhost
+```
+
+- *Reinicie el conjunto de réplicas como un fragmento.*
+```
+mongod --shardsvr --port 27021 --replSet activityShard --dbpath /var/lib/mongodb/replicate/shard/shard1 --bind_ip localhost
+```
+
+- *Inicie una mongos instancia.*
+```
+mongos --configdb activityReplSet/localhost:27019,localhost:27018,localhost:27017
+```
+
+- *Reinicie el primario con la –shardsvr opción.*
+```
+mongod --replSet "activityReplSet" --shardsvr --port 27018 --dbpath /var/lib/mongodb/replicate/rs1 --bind_ip localhost
+```
+
+- *Baje la primaria y conéctese mongosh al primario y reduzca el primario.*
+```
+rs.stepDown()
+```
+
+- *Volver a reiniciar el primario con la –shardsvr opción.*
+```
+mongod --replSet "activityReplSet" --shardsvr --port 27018 --dbpath /var/lib/mongodb/replicate/rs1 --bind_ip localhost
+```
+
+- *Agregar conjunto de réplicas inicial como fragmento.*
+```
+mongosh localhost:27018/admin
+```
+
+- *Agregue el fragmento.*
+```
+sh.addShard( "activityReplSet/localhost:27018, localhost:27019, localhost:27020" )
+```
+
+**Nota:** La actividad se realiza hasta este punto ya que no se ha encontrado solución al error, informando con anticipación a la instructura y autorizando.
+<!-- Sección general-->
+
+
+<!-- Sección María Fernanda Rivas Barrera -->
+### Requisitos no funcionales para el particionamiento de la base de datos.
+
+> — María Fernanda Rivas Barrera
+
+![Screenshot from 2022-04-14 18-55-30](https://user-images.githubusercontent.com/43456634/163494901-4d64f1bf-b816-47a2-a039-8629a60ff5e7.png)
+<!-- Sección María Fernanda Rivas Barrera -->
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+<!-- Sección Miguel Alejandro Castillo Amador -->
+### Estrategia de fragmentación.
+
+> — Miguel Alejandro Castillo Amador
+
+![Screenshot from 2022-04-14 18-52-34](https://user-images.githubusercontent.com/43456634/163494731-e33028f2-3daa-4502-8191-a1235b6a8dc3.png)
+<!-- Sección Miguel Alejandro Castillo Amador -->
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ##### Actividad 4 - Pruebas e informe de replicación en Bases de Datos NoSQL.
 
 

@@ -1,0 +1,71 @@
+
+# PASO 0 Crear replica de base de datos con repliSet
+
+# Linux y Window (Window no lleva sudo, la terminal debe iniciar como admin)
+### sudo mongod --port 27018 --dbpath /var/lib/mongodb/replicate/rs1 --replSet activityReplSet
+### sudo mongod --port 27019 --dbpath /var/lib/mongodb/replicate/rs2 --replSet activityReplSet
+### sudo mongod --port 27020 --dbpath /var/lib/mongodb/replicate/rs3 --replSet activityReplSet
+
+# Crear replica base de datos con repliSet para los shard
+### sudo mongod --port 27021 --dbpath /var/lib/mongodb/shard/sh1 --replSet activityShard
+### sudo mongod --port 27022 --dbpath /var/lib/mongodb/shard/sh2 --replSet activityShard
+### sudo mongod --port 27023 --dbpath /var/lib/mongodb/shard/sh3 --replSet activityShard
+
+
+
+# PASO 1
+
+# Linux y Window (Window no lleva sudo, la terminal debe iniciar como admin)
+### sudo mongod --configsvr --port 27018 --replSet activityReplSet --dbpath /var/lib/mongodb/replicate/rs1 --bind_ip localhost
+### sudo mongod --configsvr --port 27019 --replSet activityReplSet --dbpath /var/lib/mongodb/replicate/rs2 --bind_ip localhost
+### sudo mongod --configsvr --port 27020 --replSet activityReplSet --dbpath /var/lib/mongodb/replicate/rs3 --bind_ip localhost
+
+
+
+# Paso 2
+
+# Linux y Window (Window no lleva sudo, la terminal debe iniciar como admin)
+### sudo mongod --shardsvr --port 27021 --replSet activityShard --dbpath /var/lib/mongodb/shard/sh1 --bind_ip localhost
+### sudo mongod --shardsvr --port 27022 --replSet activityShard --dbpath /var/lib/mongodb/shard/sh2 --bind_ip localhost
+### sudo mongod --shardsvr --port 27023 --replSet activityShard --dbpath /var/lib/mongodb/shard/sh3 --bind_ip localhost
+
+
+
+# paso 3
+## sudo mongos --configdb activityReplSet/localhost:27018,localhost:27019,localhost:27020
+
+
+
+# Paso 4
+
+# Linux y Window (Window no lleva sudo, la terminal debe iniciar como admin)
+### sudo mongod --replSet "activityReplSet" --shardsvr --port 27018 --dbpath /var/lib/mongodb/replicate/rs1 --bind_ip localhost
+
+
+
+# Paso 5
+
+# Linux y Window (Window no lleva sudo, la terminal debe iniciar como admin)
+### rs.stepDown()
+
+
+
+# Paso 6
+
+# Linux y Window (Window no lleva sudo, la terminal debe iniciar como admin)
+### sudo mongod --replSet "activityReplSet" --shardsvr --port 27018 --dbpath /var/lib/mongodb/replicate/rs1 --bind_ip localhost
+
+
+
+# Paso 7
+
+# Linux y Window (Window no lleva sudo, la terminal debe iniciar como admin)
+### mongosh localhost:27018/admin
+
+
+
+# Paso 8
+
+# Linux y Window (Window no lleva sudo, la terminal debe iniciar como admin)
+### sh.addShard("activityReplSet/localhost:27021,localhost:27022,localhost:27023")
+### Este linea falla, no se ha encontrado solución

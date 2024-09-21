@@ -476,7 +476,8 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 > — Miguel Alejandro Castillo Amador
 ![img-control-GIT](https://user-images.githubusercontent.com/43456634/158319563-785f87ff-4fe5-422d-ac7c-c04d31ed6aaa.png)
 
-[*Clic aquí para ver video*]([https://laiberocol-my.sharepoint.com/:v:/g/personal/mcasti40_ibero_edu_co/Ea8jBB5T-_FBnjsY_ALGGTABoStG4dYUp03nLv-N5JAgfA?e=cMPyq0?](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EZP5cpmdwh9BldVKGBDT_O0BA3Ym9pVNgemOqyW4UDocTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=tKjqnL))
+[Mira el video aquí](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EZP5cpmdwh9BldVKGBDT_O0BA3Ym9pVNgemOqyW4UDocTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=T7cyEk)
+
 <!-- Sección Miguel Alejandro Castillo Amador -->
 
 

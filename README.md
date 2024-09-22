@@ -1,6 +1,6 @@
 ##### Actividad 6 : Pruebas de particionamiento de bases de datos NoSQL.
 
-
+> — María Fernanda Rivas Barrera
 
 <!-- Sección general -->
 # Pruebas de particionamiento de bases de datos NoSQL.
@@ -9,17 +9,9 @@
 ![Screenshot from 2022-04-14 18-44-26](https://user-images.githubusercontent.com/43456634/163494401-5ad48817-3b4e-4344-9b41-7c977ff7cbec.png)
 
 
-En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/EfOrTnQYdQVPg2G89by6-3YBOPXnT4DYVDb9jnNyXqiJKQ) se evidenciará la actividad agrupada en un solo video.
+
+[Ver video](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EfOrTnQYdQVPg2G89by6-3YBURTZ_CRS5uvYjqv5dA97jQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HQWkUG)se evidenciará la actividad agrupada en un solo video.
 <!-- Sección general -->
-
-
-
-<!-- Sección María Fernanda Rivas Barrera -->
-> — María Fernanda Rivas Barrera
-
-![Screenshot from 2022-04-14 18-18-35](https://user-images.githubusercontent.com/43456634/163492393-041f1cb7-6b12-437d-8bdc-ff7c4a55c7e7.png)
-[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/Efka5DDp9otJh9IfO02WSDgBYNjCLkdBHOFS_s2mRs8P3w)
-<!-- Sección María Fernanda Rivas Barrera -->
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -29,10 +21,6 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 > — Miguel Alejandro Castillo Amador
 
 ![Screenshot from 2022-04-14 18-20-47](https://user-images.githubusercontent.com/43456634/163492498-b621dd37-d658-4c12-9c0a-26f9bc9b912e.png)
-[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mcasti40_ibero_edu_co/EQ7eGPxOK7xLuCrYvyNTXaABlQkLkgu_E3x1aNjtdMC-lA?e=OVaO9c)
-<!-- Sección Miguel Alejandro Castillo Amador -->
-
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,6 +31,8 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 
 
 <!-- Sección general -->
+
+> — María Fernanda Rivas Barrera
 # Conceptos y Comandos básicos del particionamiento en DB NoSQL.
 
 
@@ -157,7 +147,7 @@ sh.addShard( "activityReplSet/localhost:27018, localhost:27019, localhost:27020"
 ### Pruebas de requerimientos No funcionales.
 ![Screenshot from 2022-04-01 22-32-00](https://user-images.githubusercontent.com/43456634/161364383-b8f3619d-0dd4-4d74-a8cc-bbac03c30ee7.png)
 
-En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/ETnWC6yfFHpMlP6YdGEHTy8BVHxWCgrZvl7aeh9l9PbjEg) se evidenciará la actividad agrupada en un solo video.
+
 <!-- Sección general -->
 
 
@@ -166,7 +156,9 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 > — María Fernanda Rivas Barrera
 
 ![img- capa 1 video](https://user-images.githubusercontent.com/43456634/161363620-4ff007db-4d1f-4a2e-8838-54e143bc3095.png)
-[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/personal/mrivasba_ibero_edu_co/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmrivasba%5Fibero%5Fedu%5Fco%2FDocuments%2FCapa%201%20%2D%20Mar%C3%ADa%20Rivas%2Emp4&parent=%2Fpersonal%2Fmrivasba%5Fibero%5Fedu%5Fco%2FDocuments)
+
+[Ver video](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EcyfjK79RHlKuiRpgXnhZP0BlETVRmvkuvJxxuy0X-n83Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NBOG7O)
+
 <!-- Sección María Fernanda Rivas Barrera -->
 
 
@@ -362,7 +354,10 @@ Ver video, para profundizar en las consultas.
 
 ![Image_Holman](https://user-images.githubusercontent.com/43456634/158748991-556de815-1d17-4191-8018-2a71ac222dd4.png)
 
-[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/hcruzgar_ibero_edu_co/EcnyTjFzyylEpMgb62gVWW4BFOztIarfa_TAKPK2ARD7Uw?target=_blank)
+
+
+[Ver video](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EYWm5y5A1k9DogodGt_jvwYBBIZrdmycMaQE-DElNkTNCg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=72Zzfy)
+
 <!-- Sección Holman Stiven Cruz Garcia -->
 
 
@@ -392,7 +387,10 @@ Ver video, para profundizar en las consultas.
 
 ![Image_Fernanda](https://user-images.githubusercontent.com/43456634/158748916-d21d2b13-7d09-402c-902e-6f4dccb1cf29.png)
 
-[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/EeNeieyctxJEupf7rJU7KzMBKaGnEsJRkbCsdQk3LbJRQQ?target=_blank)
+
+
+[Ver video](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/ESUsVOsaA2tGtGcbIwtAk7oB93gz_7Fc7nufQn1yi-olLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=J82r4h)
+
 <!-- Sección María Fernanda Rivas Barrera -->
 
 
@@ -425,7 +423,8 @@ Ver video, para profundizar en las consultas.
 
 ![Image_miguel](https://user-images.githubusercontent.com/43456634/158748794-56c294f5-b40e-42b0-b584-b6a8e8f7db72.png)
 
-[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mcasti40_ibero_edu_co/EeBpwlEEszROtlHZGyp9Ne0BHnaeL3E0VerYb0fPovxCaA?e=yqEYGB?target=_blank)
+[Ver video](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EcPERabkj5RIht2E_r7sz2ABGkdJdOXCPDNNa0OqP8Aa2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XYdhor)
+
 <!-- Sección Miguel Alejandro Castillo Amador -->
 
 
@@ -448,7 +447,7 @@ La denominación del sistema será enmarcada en un administrador de torneos que 
 
 ## Video de Explicación Adicional
 
-[Mira el video](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EfBTPVwkXARHjYu-vbeQxUMBnRx_T93OraEpj89ruFE5xQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qMyMkS){:target="_blank"}
+[Mira el video](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EfBTPVwkXARHjYu-vbeQxUMBnRx_T93OraEpj89ruFE5xQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qMyMkS)
 se evidenciará la actividad agrupada en un solo video.
 <!-- Sección general-->
 
@@ -459,11 +458,11 @@ se evidenciará la actividad agrupada en un solo video.
 > — María Fernanda Rivas Barrera
 ![img-Reglas](https://user-images.githubusercontent.com/43456634/158320538-c53042a2-6543-4d9c-b3e7-f1a7d3d4e558.png)
 
-[*Clic aquí para ver video*](## Video de Explicación Adicional
+
 
 ## Video de Explicación Adicional
 
-[Mira el video adicional aquí](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EfVv9Y1m39tEu7OZgQdFTMIBPYJfyvl6iuNyqV_cwpJCfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jOTPAv){:target="_blank"}
+[Mira el video adicional aquí](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EfVv9Y1m39tEu7OZgQdFTMIBPYJfyvl6iuNyqV_cwpJCfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jOTPAv)
 
 <!-- Sección María Fernanda Rivas Barrera -->
 
@@ -474,7 +473,7 @@ se evidenciará la actividad agrupada en un solo video.
 > — Holman Stiven Cruz Garcia
 ![img-estructure-DB](https://user-images.githubusercontent.com/43456634/158314744-42c59978-10f6-47d4-873a-76ab5e029f27.png)
 
-[*Clic aquí para ver video*](## Video de Explicación Adicional
+
 
 [Mira el video adicional aquí](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EU1_oo3MZtpNoHeuFvm5WdUBmK29sxiZZ2rc5lYaQv4Kxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nNBidV)
 )

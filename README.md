@@ -446,7 +446,10 @@ El torneo de futbol 9, es una actividad para relacionar las comunidades, se espe
 
 La denominación del sistema será enmarcada en un administrador de torneos que incluirá los siguiente ítems: programación, ubicación de torneos, notificación en cuanto a cambio de posiciones, información de equipos (entrenadores y jugadores), todo lo anterior ligado al interés de un participante en conocer lo sucedido durante las jornadas de cada torneo.
 
-En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/EeL8TL2vYhBOpLl77YtwK2MB-kUbml4zoXj995G10cknFA?target=_blank) se evidenciará la actividad agrupada en un solo video.
+## Video de Explicación Adicional
+
+[Mira el video](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EfBTPVwkXARHjYu-vbeQxUMBnRx_T93OraEpj89ruFE5xQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qMyMkS){:target="_blank"}
+se evidenciará la actividad agrupada en un solo video.
 <!-- Sección general-->
 
 
@@ -456,7 +459,12 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 > — María Fernanda Rivas Barrera
 ![img-Reglas](https://user-images.githubusercontent.com/43456634/158320538-c53042a2-6543-4d9c-b3e7-f1a7d3d4e558.png)
 
-[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/EfCBKw8NK9VMnhGdlziQoyoBUCZNuoCTXTSiWu9Z4Z2QLA?target=_blank)
+[*Clic aquí para ver video*](## Video de Explicación Adicional
+
+## Video de Explicación Adicional
+
+[Mira el video adicional aquí](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EfVv9Y1m39tEu7OZgQdFTMIBPYJfyvl6iuNyqV_cwpJCfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jOTPAv){:target="_blank"}
+
 <!-- Sección María Fernanda Rivas Barrera -->
 
 
@@ -466,7 +474,10 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 > — Holman Stiven Cruz Garcia
 ![img-estructure-DB](https://user-images.githubusercontent.com/43456634/158314744-42c59978-10f6-47d4-873a-76ab5e029f27.png)
 
-[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mcasti40_ibero_edu_co/EXEdChsZgCNPoJYR_-YEhJABrif24eQgxOl_hqtQq86vEg?e=1fWyqn?target=_blank)
+[*Clic aquí para ver video*](## Video de Explicación Adicional
+
+[Mira el video adicional aquí](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EU1_oo3MZtpNoHeuFvm5WdUBmK29sxiZZ2rc5lYaQv4Kxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=nNBidV)
+)
 <!-- Sección Holman Stiven Cruz Garcia -->
 
 
@@ -476,7 +487,8 @@ En el siguiente enlace [*aquí*](https://laiberocol-my.sharepoint.com/:v:/g/pers
 > — Miguel Alejandro Castillo Amador
 ![img-control-GIT](https://user-images.githubusercontent.com/43456634/158319563-785f87ff-4fe5-422d-ac7c-c04d31ed6aaa.png)
 
-[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EZP5cpmdwh9BldVKGBDT_O0BA3Ym9pVNgemOqyW4UDocTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XkBK1i)
+[Mira el video aquí](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_estudiante_ibero_edu_co/EZP5cpmdwh9BldVKGBDT_O0BA3Ym9pVNgemOqyW4UDocTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=T7cyEk)
+
 <!-- Sección Miguel Alejandro Castillo Amador -->
 
 
